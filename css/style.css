@@ -1,0 +1,28 @@
+body {
+	background-color:#34495E;
+	margin: 100px 0px 0px 500px;
+}
+	
+#begin {
+	border:solid 1px #22313F;
+	background-color:#ABB7B7;
+	color: black;
+	margin-top: 5px;
+	font-size: 20px;
+	margin-left: 40px;
+	cursor: pointer;
+}
+
+#box td {
+	border:solid 1px yellow;
+	text-align:center;
+	font-size:40px;
+	font-family:Times New Roman;
+	color: white;
+	width: 55px;
+	height: 55px;
+}
+
+td {
+	cursor: pointer;
+}
